@@ -1,4 +1,5 @@
 # DINO:DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection
+This project is for paper reproduce with PP.
 
 ## 12epoch model eval result under custom dataset
 IoU metric: bbox
